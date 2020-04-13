@@ -1,4 +1,4 @@
-# TA_Project_CS7IS4
+# TA_Project_CS7IS4_Group11
  Group project for Text Analytics (CS7IS4) module 
  
  
